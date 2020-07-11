@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  
+}
+
+.tic-tac-toe {
+  width: 300px;
+  height: 300px;
+  border: 6px solid black;
+  margin:50px auto;
+}
+
+.ttt-grid {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 55px;
+
+
+}
