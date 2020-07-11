@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/easygame/static/css/main.a0f262bd.chunk.css",
+    "main.js": "/easygame/static/js/main.11582e5c.chunk.js",
+    "main.js.map": "/easygame/static/js/main.11582e5c.chunk.js.map",
+    "runtime-main.js": "/easygame/static/js/runtime-main.b68724fd.js",
+    "runtime-main.js.map": "/easygame/static/js/runtime-main.b68724fd.js.map",
+    "static/js/2.413f15a7.chunk.js": "/easygame/static/js/2.413f15a7.chunk.js",
+    "static/js/2.413f15a7.chunk.js.map": "/easygame/static/js/2.413f15a7.chunk.js.map",
+    "index.html": "/easygame/index.html",
+    "precache-manifest.3581dfbfba737dd3e7b0352487afecee.js": "/easygame/precache-manifest.3581dfbfba737dd3e7b0352487afecee.js",
+    "service-worker.js": "/easygame/service-worker.js",
+    "static/css/main.a0f262bd.chunk.css.map": "/easygame/static/css/main.a0f262bd.chunk.css.map",
+    "static/js/2.413f15a7.chunk.js.LICENSE.txt": "/easygame/static/js/2.413f15a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68724fd.js",
+    "static/js/2.413f15a7.chunk.js",
+    "static/css/main.a0f262bd.chunk.css",
+    "static/js/main.11582e5c.chunk.js"
+  ]
+}
